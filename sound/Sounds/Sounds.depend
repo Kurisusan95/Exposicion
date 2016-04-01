@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1459532974 source:c:\users\kurisu\desktop\exposicion\sound\sounds\sounds.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+

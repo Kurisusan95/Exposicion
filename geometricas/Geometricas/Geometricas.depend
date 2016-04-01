@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1459528263 source:c:\users\kurisu\desktop\exposicion\geometricas\geometricas\geometricas.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+

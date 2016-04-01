@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1459525183 source:c:\users\kurisu\desktop\exposicion\exposicion.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+
+1325654028 source:c:\users\kurisu\desktop\exposicion\sideshooter_v3_3.cpp
+	<allegro5\allegro.h>
+	<allegro5\allegro_primitives.h>
+	<allegro5\allegro_font.h>
+	<allegro5\allegro_ttf.h>
+	<allegro5\allegro_image.h>
+	<allegro5\allegro_audio.h>
+	<allegro5\allegro_acodec.h>
+	"objects.h"
+
+1459519772 c:\users\kurisu\desktop\exposicion\objects.h
+
+1459532528 source:c:\users\kurisu\desktop\exposicion\imagenespng\exposicion.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+

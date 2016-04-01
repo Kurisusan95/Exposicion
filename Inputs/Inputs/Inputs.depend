@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1459535542 source:c:\users\kurisu\desktop\exposicion\inputs\inputs\inputs.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_native_dialog.h>
+
